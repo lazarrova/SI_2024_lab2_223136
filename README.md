@@ -1,6 +1,8 @@
 Втора лабараториска вежба по Софтверско инженерство
 Васка Лазарова 223136
-Control Flow Graph![controlFlowGraph drawio](https://github.com/lazarrova/SI_2024_lab2_223136/assets/117606879/8ecdad7a-091f-438e-97ab-ff233f04fa35)
+Control Flow Graph
+![controlFlowGraph drawio](https://github.com/lazarrova/SI_2024_lab2_223136/assets/117606879/8ecdad7a-091f-438e-97ab-ff233f04fa35)
+
 Цикломатска комплексност
 Цикломатската комплексност на овој код е 10, истата ја добив преку формулата P+1, каде што P е бројот на предикатни јазли. Во случајoв P=9, па цикломатската комплексност изнесува 10.
 
